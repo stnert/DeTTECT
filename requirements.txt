@@ -6,3 +6,4 @@ xlsxwriter==3.0.3
 ruamel.yaml==0.17.21
 eql==0.9.11
 taxii2-client==2.3.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
